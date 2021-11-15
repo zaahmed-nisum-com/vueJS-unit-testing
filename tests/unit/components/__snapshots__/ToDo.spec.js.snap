@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Todo.vue component snapshot 1`] = `
+<div>
+  <h2 class="mb-4"></h2> <input type="text" data-testid="todo-input" placeholder="Add todo item..." class="border border-gray-300 p-1 text-blue-700"> <button data-testid="todo-submit" class="px-3 py-1 text-white bg-blue-500 mb-4">
+    Add
+  </button>
+  <ul data-testid="todos" class="text-left"></ul>
+</div>
+`;
