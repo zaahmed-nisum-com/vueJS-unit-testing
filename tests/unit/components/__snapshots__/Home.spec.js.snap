@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home.vue snapshot 1`] = `
+<div><input type="text" data-testid="todo-input"> <button data-testid="todo-submit">Add</button>
+  <div></div>
+</div>
+`;
