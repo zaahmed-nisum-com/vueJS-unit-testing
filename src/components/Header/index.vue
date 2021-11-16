@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h2>Header</h2>
+  <div class="header">
+    <h2>Weather App</h2>
   </div>
 </template>
 
